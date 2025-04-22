@@ -208,7 +208,8 @@ class RenderCreator(Creator):
 
         Main publishable item in AfterEffects will be of `render` product type.
         Result of this item (instance) is picture sequence or video that could
-        be a final delivery product or loaded and used in another DCCs.
+        be a final deliver
+        y product or loaded and used in another DCCs.
 
         Select single composition and create instance of 'render' product type
         or turn off 'Use selection' to create instance for all compositions.
